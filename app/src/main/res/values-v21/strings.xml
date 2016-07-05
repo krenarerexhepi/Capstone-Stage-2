@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in">Log In</string>
+    <string name="action_sign_in_short">SignIn</string>
+    <string name="prompt_password">Short password</string>
+    <string name="prompt_username">Short username</string>
+</resources>
